@@ -1,6 +1,5 @@
-# Case-study-FrankiOne
-
-## Case Study on FrankieOne - Australian RegTech Company
+#                                              _Case Study on FrankieOne_ 
+#                                            _An Australian RegTech Company_  
 
 ## Overview and Origin
 
@@ -67,6 +66,5 @@ As most of the digital coins and NFTs are based on blockchain, frankieOne should
 * https://www.businessnewsaustralia.com/articles/fraud-prevention-platform-frankieone-raises--20m-as-fintechs--banks-sign-up-in-droves.html
 * https://www.austrade.gov.au/news/success-stories/frankieone-from-melbourne-startup-to-global-regtech-in-4-years
 
-                       
-                                                                                                        Written By
-                                                                                                        Suraj Shrestha
+Written By
+Suraj Shrestha
